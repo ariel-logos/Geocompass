@@ -53,6 +53,5 @@ In this window you can adjust several add-on settings, in particular:
 
 
 <p align="center">
-<a href="https://github.com/ariel-logos/Geocompass/assets/78350872/f3aaecf8-54db-4e5a-9b9f-1dbf183f566c"><img src="https://github.com/ariel-logos/Geocompass/assets/78350872/f3aaecf8-54db-4e5a-9b9f-1dbf183f566c" alt="Geocompass Settings"/></a>
+<img src="https://github.com/ariel-logos/Geocompass/assets/78350872/4b984bc7-34c4-43f3-8285-cb38b59a73a3"/>
 </p>
-
