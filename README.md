@@ -14,7 +14,7 @@ It displays a compass pointing at the element for which the character is benefit
 <p align="center">
 <img src="https://github.com/ariel-logos/ElfyLab/blob/master/img/gecompassdemo-noaudio-optimized.gif" alt="Geocompass in action"></img>
 </p>
-
+<br>
 ### Main features
 <ul>
   <li>Animated visuals for improved clarity.</li>
