@@ -18,6 +18,7 @@ It displays a compass pointing at the element for which the character is benefit
 ### Main features
 <ul>
   <li>Animated visuals for improved clarity.</li>
+  <li>Autohides when no target is selected.</li>
   <li>Can be set to autohide when GEO is not the main job, when the target is not locked and when the target is not a mob.</li>
   <li>Resizable compass.</li>
   <li>Can hide different parts to achieve a minimalistic look.</li>
@@ -50,7 +51,7 @@ In this window you can adjust several add-on settings, in particular:
   <li><b>Show only when target is locked on:</b> the compass will autohide when there's no locked on target.</li>
   <li><b>Only apply on mobs:</b> modifies the previous behavior (show on locked on targets) to only show the compass on locked on mobs.</li>
 </ol>
-
+<br></br>
 
 <p align="center">
 <img src="https://github.com/ariel-logos/Geocompass/assets/78350872/4b984bc7-34c4-43f3-8285-cb38b59a73a3"/>
