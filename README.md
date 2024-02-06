@@ -5,7 +5,7 @@ Geocompass is an add-on for FFXI's third-party loader and hook Ashita (https://w
 The purpose of this add-on is to provide clear tracking of the elemental bonus given by the trait, based on the character orientation.
 <br></br>  
 ### What is not?
-This add-on is <b>NOT</b> compass working for the original Cardinal Chant implementation (https://www.bg-wiki.com/ffxi/Cardinal_Chant).
+This add-on is <b>NOT</b> a compass that can be used for the original Cardinal Chant implementation (https://www.bg-wiki.com/ffxi/Cardinal_Chant).
 I will consider working on this depending on the volume of demand for it.
 <br></br>
 ### How does it work?
