@@ -18,10 +18,10 @@ It displays a compass pointing at the element for which the character is benefit
 ### Main features
 <ul>
   <li>Animated visuals for improved clarity.</li>
-  <li>Can be set to autohide when GEO is not the main job, when the target is not locked and when the target is not a mob</li>
-  <li>Resizable compass</li>
+  <li>Can be set to autohide when GEO is not the main job, when the target is not locked and when the target is not a mob.</li>
+  <li>Resizable compass.</li>
   <li>Can hide different parts to achieve a minimalistic look.</li>
-  <li>Autosaves settings</li>
+  <li>Autosaves settings.</li>
 </ul>
 
 ### Installation
