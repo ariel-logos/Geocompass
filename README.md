@@ -13,7 +13,7 @@ It displays a compass pointing at the element for which the character is benefit
 <br></br>
 <p align="center">
 <img src="https://github.com/ariel-logos/ElfyLab/blob/master/img/gecompassdemo-noaudio-optimized.gif" alt="Geocompass in action"></img>
-</p><br></br>
+</p>
 
 ### Main features
 <ul>
