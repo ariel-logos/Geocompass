@@ -40,8 +40,8 @@ local currentCfg;
 local cfg = T{
 
 	isSettingsOn = T{false},
-	showLocked = T{false},
-	showGEO = T{false},
+	showLocked = T{true},
+	showGEO = T{true},
 	disableBell = T{false},
 	disableNeedle = T{false},
 	disableToken = T{false},
@@ -106,9 +106,9 @@ ashita.events.register('d3d_present', 'present_cb', function()
 	local windowW = 500*currentCfg.scale;
 	local windowH = 500*currentCfg.scale;
 	
-	local lockedCheck = not currentCfg.showLocked[1] or isLockedOn;
 	local geoCheck = not currentCfg.showGEO[1] or playerJob == 21;
-	local mobCheck = not currentCfg.onlyLockMobs[1] or targetIsMob;
+	local lockedCheck = not currentCfg.showLocked[1] or isLockedOn;
+	local mobCheck = lockedCheck and (not currentCfg.onlyLockMobs[1] or targetIsMob);
 	local isVisible = lockedCheck and geoCheck and mobCheck;
 	
 	
@@ -252,6 +252,8 @@ ashita.events.register('d3d_present', 'present_cb', function()
 			save_settings();
 		end
 		if (currentCfg.showLocked[1]) then
+			imgui.Text(' L');
+			imgui.SameLine();
 			if (imgui.Checkbox('Only apply on mobs',{currentCfg.onlyLockMobs[1]})) then 
 				currentCfg.onlyLockMobs[1] = not currentCfg.onlyLockMobs[1];
 				save_settings();
