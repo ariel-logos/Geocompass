@@ -28,7 +28,7 @@ It displays a compass pointing at the element for which the character is benefit
 Go over the <a href="https://github.com/ariel-logos/Geocompass/releases" target="_blank">Releases</a> page, download the latest version and unpack it in the add-on folder in your Ashita installation folder. You should now have among the other add-on folders the "geocompass" one!
 <br></br>
 ### Compatibility Issues
-None detected so far.
+Currently non compatible with the original implementation of Cardinal Chant (https://www.bg-wiki.com/ffxi/Cardinal_Chant).
 <br></br>
 ### Functionalities
 
