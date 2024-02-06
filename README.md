@@ -10,11 +10,11 @@ I will consider working on this depending on the volume of demand for it.
 <br></br>
 ### How does it work?
 It displays a compass pointing at the element for which the character is benefitting from a buff.
-<br><br>
+<br></br>
 <p align="center">
-<a href="https://github.com/ariel-logos/ElfyLab/blob/master/img/gecompassdemo-noaudio-optimized.gif"><img src="https://github.com/ariel-logos/ElfyLab/blob/master/img/gecompassdemo-noaudio-optimized.gif" alt="Geocompass in action"></img></a>
+<img src="https://github.com/ariel-logos/ElfyLab/blob/master/img/gecompassdemo-noaudio-optimized.gif" alt="Geocompass in action"></img>
 </p>
-<br><br>
+<br></br>
 ### Main features
 <ul>
   <li>Animated visuals for improved clarity.</li>
